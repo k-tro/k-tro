@@ -38,7 +38,7 @@ I'm a self-driven developer with a background in Aerospace Engineering and a dee
 - Advanced courses in Machine Learning
 
 ## 🎯 Goals
-- Launch freelance dev work by [30 June 2025]
+- Launch freelance dev work by [2025-06-30]
 - Build a portfolio of **deployable, useful software**
 - Eventually explore advanced topics in ML, statistics, and systems
 
