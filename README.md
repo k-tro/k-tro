@@ -30,17 +30,20 @@ I'm a self-driven developer with a background in Aerospace Engineering and a dee
 - Concepts: Object-Oriented Programming, Data Structures & Algorithms
 
 ## What I'm Learning Next
-- Fullstack Software Engineering
+- Basics of Machine Learning with PyTorch and Karpathy’s Zero-to-Hero
+- Advanced statistics
 - Cloud Fundamentals (Azure + AWS)
 - Python Automation & Scripting
 - GitHub Actions and CI/CD basics
-- Basics of Machine Learning with PyTorch and Karpathy’s Zero-to-Hero
+- Fullstack Software Engineering
 - Advanced courses in Machine Learning
 
 ## Goals
 - Launch freelance dev work by [2025-06-30]
 - Build a portfolio of **deployable, useful software**
 - Eventually explore advanced topics in ML, statistics, and systems
+- Treat my family a dinner with my first paycheck
+- Design a machine learning workflow for Aerospace Engineering solutions
 
 ## Let's Connect!
 -  [LinkedIn](https://linkedin.com/in/ktroo)
