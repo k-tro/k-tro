@@ -13,37 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there! I'm Piyush
+# Hey there! I'm Piyush
 
-I'm a self-driven developer with a background in Aerospace Engineering and a deep commitment to learning and building. After overcoming some major personal hurdles, I'm now channeling all my energy into mastering real-world tech skills — fast.
+I'm a self-driven developer with a background in Aerospace Engineering and a deep commitment to learning and building. After overcoming some major personal hurdles, I'm now back on the track to learn things and find inner peace... and try to get into a good job/university.
+
+Here's a rough guideline that I am following, starting August 2025:
+
+![The plan.](home_resources/long_term_plan.png)
+
+Note: this was given to me by GPT5 after I told it a list of things I plan to do. My own plan may vary. I will be updating my page to show the correct plan.
 
 ## What I'm Doing Now
--  Speedrunning the **Java Developer Professional Certificate** by Coursera
--  Daily practice on **LeetCode**, **AtCoder**, and **Codeforces**
+-  Velleman proofs, Algorithms, DSA on leetcode, learning Rust.
 -  Documenting my journey on [my learning site](https://k-tro.github.io)
--  Building real projects in **Java**, **Python**, and **C++**
--  Preparing to start **freelancing in 37 days**
+-  Building real projects in **Python**, **C++** and **Rust**
 
 ## Current Skillset
-- Languages: `Java`, `Python`, `C++`
-- Tools: `Git`, `Linux`, `VS Code`
-- Concepts: Object-Oriented Programming, Data Structures & Algorithms
-
-## What I'm Learning Next
-- Basics of Machine Learning with PyTorch and Karpathy’s Zero-to-Hero
-- Advanced statistics
-- Cloud Fundamentals (Azure + AWS)
-- Python Automation & Scripting
-- GitHub Actions and CI/CD basics
-- Fullstack Software Engineering
-- Advanced courses in Machine Learning
+- Languages: `C++ (STL)`, `Python (np, pd, torch)`, `Java (base)`
+- Tools: `Git`, `WSL2`, `VS Code`, `Obsidian`
+- Concepts: OOP, DSA, MLPs, Engineering Math (UG)
 
 ## Goals
-- Launch freelance dev work by [2025-06-30]
+- Join a good intern/job soon.
 - Build a portfolio of **deployable, useful software**
 - Eventually explore advanced topics in ML, statistics, and systems
-- Treat my family a dinner with my first paycheck
-- Design a machine learning workflow for Aerospace Engineering solutions
+- ~~Design a machine learning workflow for Aerospace Engineering solutions~~
 
 ## Let's Connect!
 -  [LinkedIn](https://linkedin.com/in/ktroo)
@@ -52,4 +46,4 @@ I'm a self-driven developer with a background in Aerospace Engineering and a dee
 
 ---
 
-_“Burnout is just a sign that you're doing too much of what doesn't serve your purpose. I’m done with that.”_
+Regardless of how you ended up here, I am willing to talk about music, physics, math, and cats. 
