@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm a learner with a background in Aerospace Engineering and a deep commitment to learning and building. After overcoming some major personal hurdles, I'm now back on the track to learn things and find inner peace... and try to get into a good job/university.
 
-Note: this was given to me by GPT5 after I told it a list of things I plan to do. My own plan may vary. I will be updating my page to show the correct plan.
-
 ## What I'm Doing Now
 #### Getting used to build tools following a youtube series by /c/cppdev.
 #### Doing two ambitious projects:
