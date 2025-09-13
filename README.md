@@ -56,7 +56,7 @@ I'm a learner with a background in Aerospace Engineering and a deep commitment t
 - Eventually fund myself through a top university outside of India.
 
 ## Let's Connect!
--  [LinkedIn](https://linkedin.com/in/ktroo)
+-  [LinkedIn](https://linkedin.com/in/k-tro)
 -  [My Website](https://k-tro.github.io)
 -  Email: ktroc3@gmail.com
 
